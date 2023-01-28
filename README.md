@@ -10,8 +10,8 @@ O sofware de gestão do proprietário, tem o objetivo de entregar um balancete d
 
 Esse repositório destina-se ao *dispenser* do protótipo, o projeto deve ser executado junto com os seguintes repositórios: 
 - Dispenser: https://github.com/guilhermesetim/selfservice-bebidas-dispenser
-- Caixa:
-- Software de gestão:
+- Caixa: https://github.com/guilhermesetim/selfservice-bebidas-caixa
+- Software de gestão: https://github.com/guilhermesetim/selfservice-bebidas-gestao
 
 ## Banco de dados
 O banco de dados é o responsável pela viabilidade de todo o sistema, pois com os registros que são gravados nele, permite a consulta que os três sistemas necessitam.
